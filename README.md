@@ -15,6 +15,18 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌼 Read My Latest Medium Articles! 🐥✨
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fyattani/0">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fyattani/0" alt="Recent Article 0">
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fyattani/2">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fyattani/2" alt="Recent Article 2">
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fyattani/5">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@fyattani/5" alt="Recent Article 5">
+</a>
 
 
 
