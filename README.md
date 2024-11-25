@@ -10,8 +10,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fatumayattani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Fatumayattani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=600)<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fatumayattani&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Fatuma Yattani's Language stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fatumayattani&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Fatuma Yattani's Language stats" width="80%" />
 </a>
+
+
 
 
 ---
