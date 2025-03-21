@@ -19,11 +19,6 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🌼 Read My Latest Medium Articles! 🐥✨  
-
-### [🤖 AI-Powered DAOs: Can Bots Outvote Humans in Governance?](https://medium.com/@fyattani/ai-powered-daos-can-bots-outvote-humans-in-governance-0aac121fa02d)  
-
-### [🎨 The Weirdest NFTs Ever Sold](https://medium.com/@fyattani/the-weirdest-nfts-ever-sold-04752b9eba43)  
   
 
 
