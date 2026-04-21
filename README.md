@@ -9,22 +9,14 @@
 
 ### `// about.me`
 
-<div>
-
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/➜ whoami-FF79C6?style=flat&labelColor=0d1117&color=0d1117&logoColor=FF79C6" /><br>
-&nbsp;&nbsp;<kbd>❯</kbd> &nbsp;`Fatuma Yattani — Full Stack Developer`<br><br>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/➜ location-FF79C6?style=flat&labelColor=0d1117&color=0d1117" /><br>
-&nbsp;&nbsp;<kbd>❯</kbd> &nbsp;`Nairobi, Kenya 🌍`<br><br>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/➜ current__build-FF79C6?style=flat&labelColor=0d1117&color=0d1117" /><br>
-&nbsp;&nbsp;<kbd>❯</kbd> &nbsp;`Dunia Hub 🌐`<br><br>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/➜ learning-FF79C6?style=flat&labelColor=0d1117&color=0d1117" /><br>
-&nbsp;&nbsp;<kbd>❯</kbd> &nbsp;`Uniswap Hooks · DeFi Protocols `<br><br>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/➜ open__to-FF79C6?style=flat&labelColor=0d1117&color=0d1117" /><br>
-&nbsp;&nbsp;<kbd>❯</kbd> &nbsp;`Collaborations & Opportunities`<br><br>
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/➜ fun__fact-FF79C6?style=flat&labelColor=0d1117&color=0d1117" /><br>
-&nbsp;&nbsp;<kbd>❯</kbd> &nbsp;`I debug with console.log and I'm not sorry.`
-
-</div>
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr><td>🙋‍♀️</td><td><strong><font color="#FF79C6">Fatuma Yattani — Full Stack Developer</font></strong></td></tr>
+  <tr><td>📍</td><td><font color="#FF79C6">Nairobi, Kenya 🌍</font></td></tr>
+  <tr><td>🌐</td><td><font color="#FF79C6">Currently building <strong>Dunia Hub</strong></font></td></tr>
+  <tr><td>🦄</td><td><font color="#FF79C6">Learning Uniswap Hooks · DeFi Protocols </font></td></tr>
+  <tr><td>🤝</td><td><font color="#FF79C6">Open to Collaborations &amp; Opportunities</font></td></tr>
+  <tr><td>😄</td><td><font color="#FF79C6">I debug with console.log and I'm not sorry.</font></td></tr>
+</table>
 
 ---
 
@@ -63,6 +55,7 @@ $ git log --oneline --current-projects
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Fatumayattani&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </div>
+
 ---
 
 ### `// connect`
@@ -80,5 +73,5 @@ $ git log --oneline --current-projects
 ---
 
 <div align="center">
-  <sub>made with ♥ and too much coffee &nbsp;·&nbsp; always shipping</sub>
+  <sub>made with ♥ and too much coffee &nbsp;·&nbsp; always shipping 🚀</sub>
 </div>
