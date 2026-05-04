@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Dunia+Hub+%F0%9F%8C+;Learning+Uniswap+Hooks+%F0%9F%A6%84;Always+learning%2C+always+shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%9A%80;Building+Dunia+Hub+%F0%9F%8C+;Learning+Uniswap+Hooks+%F0%9F%A6%84;Always+learning%2C+always+shipping)
 
 </div>
 
@@ -10,7 +10,7 @@
 ### `// about.me`
 
 <table border="0" cellspacing="0" cellpadding="6">
-  <tr><td>🙋‍♀️</td><td><strong><font color="#FF79C6">Fatuma Yattani — Full Stack Developer</font></strong></td></tr>
+  <tr><td>🙋‍♀️</td><td><strong><font color="#FF79C6">Fatuma Yattani — Software Engineer</font></strong></td></tr>
   <tr><td>📍</td><td><font color="#FF79C6">Nairobi, Kenya 🌍</font></td></tr>
   <tr><td>🌐</td><td><font color="#FF79C6">Currently building <strong>Dunia Hub</strong></font></td></tr>
   <tr><td>🦄</td><td><font color="#FF79C6">Learning Uniswap Hooks · DeFi Protocols </font></td></tr>
@@ -31,17 +31,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d1e07?style=flat&logo=postgresql&logoColor=d29922)
 ![Docker](https://img.shields.io/badge/Docker-072428?style=flat&logo=docker&logoColor=39d0d8)
 ![AWS](https://img.shields.io/badge/AWS-072428?style=flat&logo=amazonaws&logoColor=39d0d8)
-
----
-
-### `// current.mission`
-
-```bash
-$ git log --oneline --current-projects
-```
-
-> 🌐 **Dunia Hub** — Building a platform connecting Africa to the world  
-> 🦄 **Uniswap Hooks** — Learning to customize AMM logic with v4 hooks  
 
 ---
 
